@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name SparqControlv3-eagle-import)(type Legacy)(uri ${KIPRJMOD}/SparqControlv3-eagle-import.lib)(options "")(descr ""))
-)

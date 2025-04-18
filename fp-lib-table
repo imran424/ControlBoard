@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name SparqControlv3)(type KiCad)(uri "$(KIPRJMOD)/SparqControlv3.pretty")(options "")(descr ""))
-)
